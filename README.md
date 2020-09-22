@@ -3,5 +3,4 @@ Just another repository
 
 Hello!
 
-I love jacket potatoes. 
-And mixed vegetable curry yum yum 
+I love jacket potatoes, eggs, mushrooms and mixed vegetable curry yum yum 
